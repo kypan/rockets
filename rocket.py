@@ -6,8 +6,7 @@ from math import sqrt
 class Rocket():
     #Rocket simulates a rocket ship for a game or a physics simulation
 
-    def __init__(self, name='Rocket', x=0, y=0, height=1, crew=1): #__init__ is a built-in Python function that is immediately called when an object instance of
-    #a class is created. It sets the starting attributes for the object.
+    def __init__(self, name='Rocket', x=0, y=0, height=1, crew=1):
     #Each rocket has a starting (x,y) position. If no arguments are passed for x and/or y the default is 0
     #Each rocket has a specific height and crew size
         self.name = name
