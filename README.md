@@ -1,4 +1,4 @@
 rockets
 =======
 
-A simple text-based rocket-crashing simulation.
+A simple text-based rocket-crashing Python simulation.
